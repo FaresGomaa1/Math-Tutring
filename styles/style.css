@@ -40,7 +40,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  z-index: 100px;
+  z-index: 10000;
 }
 .header.sticky {
   border-bottom: 0.1rem solid rgb(0, 0, 0, 0.2);
